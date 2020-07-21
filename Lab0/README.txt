@@ -1,0 +1,1 @@
+I aidan bernstein have read the code of conduct document and sylabus and agree to the terms and service of said documents -- october 1 2018

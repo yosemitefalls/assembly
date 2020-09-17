@@ -9,7 +9,7 @@ Well I wrote the whole thing out step by step and kinda debugged as i went on. T
 then the string compare the char compare. It wasnt the best approach because I thought it was gunna be easier
 then it was
 What did you learn in this lab?
-I learned the need to store things in remp reigsters do to memory overwriting. I also learned the value of sub routines (there kinda like methods) 
+I learned the need to store things in temp reigsters do to memory overwriting. I also learned the value of sub routines (there kinda like methods) 
 and jr ra (kinda like return statement) however in order to use them propoerly you have to implement a stack
 which is what I did in order ot use them. Using all these things in coordination is what I learnedin this lab
 Did you encounter any issues? Were there parts of this lab you found enjoyable?
